@@ -1,4 +1,4 @@
-''mermaid
+```mermaid
 
 graph TB;
     neil[CEO]-->callum[COO]
