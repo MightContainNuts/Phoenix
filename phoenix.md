@@ -1,14 +1,14 @@
 ```mermaid
 
 graph TB;
-    neil[CEO]-->callum[COO]
-    callum-->q[Team Asst]
-    callum-->dave[TeamAsst]
-    neil-->gillian[CFO]
-    neil-->dean[CTO]
-    dean-->gavin[Team Leader 1]
-    dean-->TBD[Team Leader 2]
-    dean-->michael[Team Leader 3]
+    CEO[CEO: neil]-->COO[COO: callum]
+    COO-->TeamAsst[TeamAsst: q]
+    COO-->TeamAsst[TeamAsst: dave]
+    CEO-->CFO[CFO: gillian]
+    CEO-->CTO[CTO: dean]
+    CTO-->gavin[Team Leader 1]
+    CTO-->TBD[Team Leader 2]
+    CTO-->michael[Team Leader 3]
     gavin-->dinesh[Field Engineer]
     gavin-->T1.2_tbd[Field Engineer]
     gavin-->T1.3_tbd[Field Engineer]
@@ -19,3 +19,6 @@ graph TB;
     michael-->T3.2_tbd[Field Engineer]
     michael-->T3.3_tbd[Field Engineer]
    
+CEO[CEO: Neil ] --> CTO[CTO: Dean ]
+    CEO --> CFO[CFO: Gillian ]
+    CEO --> COO[COO: Callum ]
