@@ -2,8 +2,8 @@
 
 graph TB;
     CEO[CEO: neil]-->COO[COO: callum]
-    COO-->TeamAsst1[TeamAsst: q]
-    COO-->TeamAsst2[TeamAsst: dave]
+    CEO-->TeamAsst1[TeamAsst: q]
+    CEO-->TeamAsst2[TeamAsst: dave]
     CEO-->CFO[CFO: gillian]
     CEO-->CTO[CTO: dean]
     CTO-->UK_Teamlead_1[UK_Teamlead_1: gav]
