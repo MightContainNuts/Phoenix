@@ -16,7 +16,7 @@ graph TB;
     CTO-LSTUK-->UK_Team1[UK Engineering Team 01]
 
     UK_Team1-->UK_FE_01[Senior Qualification Engineer: Andrew M.]
-    UK_Team1-->UK_FE_02[Senior Qualification Engineer: Elliot B.]
+    UK_Team1-->UK_FE_02[Qualification Engineer: Elliot B.]
     UK_Team1-->UK_FE_03[Senior Qualification Engineer: Dinesh P.]
     UK_Team1-->UK_FE_04[Senior Qualification Engineer: James P.]
 
@@ -30,10 +30,12 @@ graph TB;
     CEO-LSSSG[CEO: Neil MacRae]-->COO-LSSSG[COO: Callum Semple]
     CEO-LSTUK[CEO: Neil MacRae]-->AL-LSTSSG[Admin Lead: Qian Zhau Lai]
 
-    CTO-LSSSG-->SG_FE_01[APAC_Team_1: Michael L.\\ Senior Qualification Engineer]
-    CTO-LSSSG-->SG_FE_02[APAC_Team_1: Tic L.\\ Senior Qualification Engineer]
-    CTO-LSSSG-->SG_FE_03[APAC_Team_1: Muhammad I.\\ Senior Qualification Engineer]
-    CTO-LSSSG-->SG_FE_04[APAC_Team_1: t.b.d.]
+    CTO-LSTSG-->APAC_Team1[Ireland Engineering Team 01]
+
+    APAC_Team1-->SG_FE_01[Senior Qualification Engineer: Michael L.\\ ]
+    APAC_Team1-->SG_FE_02[Qualification Engineer: Tic L.\\ Senior Qualification Engineer]
+    APAC_Team1-->SG_FE_03[Qualification Engineer: Muhammad I.\\ Senior Qualification Engineer]
+    APAC_Team1-->SG_FE_04[APAC_Team_1: t.b.d.]
 
 
 
