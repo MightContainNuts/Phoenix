@@ -17,12 +17,16 @@ graph TB;
 
     UK_Team1-->UK_FE_01[Senior Qualification Engineer: Andrew M.
         INST/IQ/OQ]
-    UK_Team1-->UK_FE_02[Qualification Engineer: Elliot B.]
-    UK_Team1-->UK_FE_03[Senior Qualification Engineer: Dinesh P.]
-    UK_Team1-->UK_FE_04[Senior Qualification Engineer: James P.]
+    UK_Team1-->UK_FE_02[Qualification Engineer: Elliot B.
+        INST/IQ/OQ]
+    UK_Team1-->UK_FE_03[Senior Qualification Engineer: Dinesh P.
+        INST/IQ/OQ]
+    UK_Team1-->UK_FE_04[Senior Qualification Engineer: James P.
+        INST/IQ/OQ]
 
     CTO-LSTUK-->IL_Team1[Ireland Engineering Team 01]
-    IL_Team1-->IL_FE_1[Senior Qualification Engineer: Damian B]
+    IL_Team1-->IL_FE_1[Senior Qualification Engineer: Damian B
+        INST/IQ/OQ]
 
 
 
@@ -33,9 +37,12 @@ graph TB;
 
     CTO-LSSSG-->APAC_Team1[Ireland Engineering Team 01]
 
-    APAC_Team1-->SG_FE_01[Senior Qualification Engineer: Michael L.\\ ]
-    APAC_Team1-->SG_FE_02[Qualification Engineer: Tic L.\\ Senior Qualification Engineer]
-    APAC_Team1-->SG_FE_03[Qualification Engineer: Muhammad I.\\ Senior Qualification Engineer]
+    APAC_Team1-->SG_FE_01[Senior Qualification Engineer: Michael L.
+        INST/IQ/OQ]
+    APAC_Team1-->SG_FE_02[Qualification Engineer: Tic L.
+        INST/IQ/OQ]
+    APAC_Team1-->SG_FE_03[Qualification Engineer: Muhammad I.
+        INST/IQ]
     APAC_Team1-->SG_FE_04[APAC_Team_1: t.b.d.]
 
 
