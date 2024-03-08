@@ -13,10 +13,12 @@ graph TB;
     CEO-LSTUK[CEO: Neil MacRae]-->COO-LSTUK[COO: Callum Semple]
     CEO-LSTUK[CEO: Neil MacRae]-->AL-LSTUK[Admin Lead: Helen T.]
 
-    CTO-LSTUK-->UK_FE_01[UK_FE_01: Andrew M.\\ Senior Qualification Engineer]
-    CTO-LSTUK-->UK_FE_02[UK_FE_02: Elliot B.\\ Senior Qualification Engineer]
-    CTO-LSTUK-->UK_FE_03[UK_FE_03: Dinesh P.\\ Senior Qualification Engineer]
-    CTO-LSTUK-->UK_FE_04[UK_FE_04: James P.\\ Senior Qualification Engineer]
+    CTO-LSTUK-->UK_Team1[UK Engineering Team 01]
+
+    UK_Team1-->UK_FE_01[UK_FE_01: Andrew M.\\ Senior Qualification Engineer]
+    UK_Team1-->UK_FE_02[UK_FE_02: Elliot B.\\ Senior Qualification Engineer]
+    UK_Team1-->UK_FE_03[UK_FE_03: Dinesh P.\\ Senior Qualification Engineer]
+    UK_Team1-->UK_FE_04[UK_FE_04: James P.\\ Senior Qualification Engineer]
 
     CTO-LSTUK-->IL_FE_1[IL_FE_01: Damian B]
 
