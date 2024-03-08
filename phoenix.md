@@ -3,9 +3,9 @@
 graph TB;
 
     linkStyle default stroke:red
-    linkStyle 1 stroke-width:4px,stroke:green
-    linkStyle 1 stroke:blue
-    linkStyle 1 stroke:blue
+    linkStyle 0 stroke-width:4px,stroke:green
+    linkStyle 0 stroke:blue
+    linkStyle 0 stroke:blue
 
     LSTG[Lifescience Technology Group]-->LSTUK[Lifescience Technology LTD UK]
     LSTG[Lifescience Technology Group]-->LSSSG[Lifescience Solutions LTD APAC]
