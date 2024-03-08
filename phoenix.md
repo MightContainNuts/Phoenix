@@ -64,18 +64,6 @@ graph TB;
         INST/IQ]
     APAC_Team1-->SG_FE_04[APAC_Team_1: t.b.d.]
 
-subgraph section
-APAC_Team1
-SG_FE_01
-SG_FE_02
-SG_FE_03
-SG_FE_04
-end
-
-subgraph section
-IL_Team1
-IL_FE_01
-end
 
 
 
