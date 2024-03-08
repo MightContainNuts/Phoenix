@@ -28,6 +28,10 @@ graph TB;
     IL_Team1-->IL_FE_1[Senior Qualification Engineer: Damian B
         INST/IQ/OQ]
 
+    CTO-LSTUK-->DE_Team1[DACH Engineering Team 01]
+    DE_Team1-->DE_FE_1[Qualification Engineer: Sandro R.
+        INST/IQ/OQ]
+
 
 
     CEO-LSSSG-->CFO-LSSSG[CFO: Gillian Semple]
