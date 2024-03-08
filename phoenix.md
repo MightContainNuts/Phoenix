@@ -66,6 +66,10 @@ graph TB;
 
 subgraph section
 APAC_Team1
+SG_FE_01
+SG_FE_02
+SG_FE_03
+SG_FE_04
 end
 
 
