@@ -54,7 +54,7 @@ graph TB;
     CEO-LSSSG-->COO-LSSSG[COO: Callum Semple]
     CEO-LSSSG-->AL-LSTSSG[Admin Lead: Qian Zhau Lai]
 
-    CTO-LSSSG-->APAC_Team1[Ireland Engineering Team 01]
+    CTO-LSSSG-->APAC_Team1[APAC Engineering Team 01]
 
     APAC_Team1-->SG_FE_01[Senior Qualification Engineer: Michael L.
         INST/IQ/OQ]
