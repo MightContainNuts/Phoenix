@@ -5,13 +5,13 @@ graph TB;
     LSTG[Lifescience Technology Group]-->LSTUK[Lifescience Technology LTD UK]
     LSTG[Lifescience Technology Group]-->LSSSG[Lifescience Solutions LTD APAC]
 
-    LSTUK[Lifescience Solutions LTD SG]-->CEO-LSTUK[CEO: Neil MacRae]
-    LSSSG[Lifescience Solutions LTD SG]-->CEO-LSSSG[CEO: Neil MacRae]
+    LSTUK-->CEO-LSTUK[CEO: Neil MacRae]
+    LSSSG-->CEO-LSSSG[CEO: Neil MacRae]
     
-    CEO-LSTUK[CEO: Neil MacRae]-->CFO-LSTUK[CFO: Gillian Semple]
-    CEO-LSTUK[CEO: Neil MacRae]-->CTO-LSTUK[CTO: Dean Didion]
-    CEO-LSTUK[CEO: Neil MacRae]-->COO-LSTUK[COO: Callum Semple]
-    CEO-LSTUK[CEO: Neil MacRae]-->AL-LSTUK[Admin Lead: Helen T.]
+    CEO-LSTUK-->CFO-LSTUK[CFO: Gillian Semple]
+    CEO-LSTUK-->CTO-LSTUK[CTO: Dean Didion]
+    CEO-LSTUK-->COO-LSTUK[COO: Callum Semple]
+    CEO-LSTUK-->AL-LSTUK[Admin Lead: Helen T.]
 
     CTO-LSTUK-->UK_Team1[UK Engineering Team 01]
 
@@ -30,10 +30,10 @@ graph TB;
 
 
 
-    CEO-LSSSG[CEO: Neil MacRae]-->CFO-LSSSG[CFO: Gillian Semple]
-    CEO-LSSSG[CEO: Neil MacRae]-->CTO-LSSSG[CTO: Dean Didion]
-    CEO-LSSSG[CEO: Neil MacRae]-->COO-LSSSG[COO: Callum Semple]
-    CEO-LSSSG[CEO: Neil MacRae]-->AL-LSTSSG[Admin Lead: Qian Zhau Lai]
+    CEO-LSSSG-->CFO-LSSSG[CFO: Gillian Semple]
+    CEO-LSSSG-->CTO-LSSSG[CTO: Dean Didion]
+    CEO-LSSSG-->COO-LSSSG[COO: Callum Semple]
+    CEO-LSSSG-->AL-LSTSSG[Admin Lead: Qian Zhau Lai]
 
     CTO-LSSSG-->APAC_Team1[Ireland Engineering Team 01]
 
