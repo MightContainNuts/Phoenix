@@ -28,9 +28,9 @@ graph TB;
     CEO-LSSSG[CEO: Neil MacRae]-->CFO-LSSSG[CFO: Gillian Semple]
     CEO-LSSSG[CEO: Neil MacRae]-->CTO-LSSSG[CTO: Dean Didion]
     CEO-LSSSG[CEO: Neil MacRae]-->COO-LSSSG[COO: Callum Semple]
-    CEO-LSTUK[CEO: Neil MacRae]-->AL-LSTSSG[Admin Lead: Qian Zhau Lai]
+    CEO-LSSSG[CEO: Neil MacRae]-->AL-LSTSSG[Admin Lead: Qian Zhau Lai]
 
-    CTO-LSTSG-->APAC_Team1[Ireland Engineering Team 01]
+    CTO-LSSSG-->APAC_Team1[Ireland Engineering Team 01]
 
     APAC_Team1-->SG_FE_01[Senior Qualification Engineer: Michael L.\\ ]
     APAC_Team1-->SG_FE_02[Qualification Engineer: Tic L.\\ Senior Qualification Engineer]
