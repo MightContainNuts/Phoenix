@@ -29,7 +29,7 @@ graph LR;
     CEO-LSTUK-->AL-LSTUK[Admin Lead: Helen T.]
 
     CTO-LSTUK-->UK_Team1[UK Engineering Team 01]
-    subgraph ide2 [UK]
+    subgraph ide1 [UK]
     UK_Team1-->UK_FE_01[Senior Qualification Engineer: Andrew M.
         INST/IQ/OQ]
     UK_Team1-->UK_FE_02[Qualification Engineer: Elliot B.
@@ -50,7 +50,7 @@ graph LR;
 
     CTO-LSTUK-->DE_Team1[DACH Engineering Team 01]
 
-    subgraph ide2 [DACH]
+    subgraph ide3 [DACH]
     DE_Team1-->DE_FE_1[Qualification Engineer: Sandro R.
         INST/IQ/OQ]
     end
@@ -64,7 +64,7 @@ graph LR;
 
 
     CTO-LSSSG-->APAC_Team1[APAC Engineering Team 01]
-    subgraph ide1 [APAC]
+    subgraph ide4 [APAC]
     APAC_Team1-->SG_FE_01[Senior Qualification Engineer: Michael L.
         INST/IQ/OQ]
     APAC_Team1-->SG_FE_02[Qualification Engineer: Tic L.
