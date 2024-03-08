@@ -15,13 +15,13 @@ graph TB;
 
     CTO-LSTUK-->UK_Team1[UK Engineering Team 01]
 
-    UK_Team1-->UK_FE_01[UK_FE_01: Andrew M.\\ Senior Qualification Engineer]
-    UK_Team1-->UK_FE_02[UK_FE_02: Elliot B.\\ Senior Qualification Engineer]
-    UK_Team1-->UK_FE_03[UK_FE_03: Dinesh P.\\ Senior Qualification Engineer]
-    UK_Team1-->UK_FE_04[UK_FE_04: James P.\\ Senior Qualification Engineer]
+    UK_Team1-->UK_FE_01[Senior Qualification Engineer: Andrew M.]
+    UK_Team1-->UK_FE_02[Senior Qualification Engineer: Elliot B.]
+    UK_Team1-->UK_FE_03[Senior Qualification Engineer: Dinesh P.]
+    UK_Team1-->UK_FE_04[Senior Qualification Engineer: James P.]
 
     CTO-LSTUK-->IL_Team1[Ireland Engineering Team 01]
-    IL_Team1-->IL_FE_1[IL_FE_01: Damian B]
+    IL_Team1-->IL_FE_1[Senior Qualification Engineer: Damian B]
 
 
 
