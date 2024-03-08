@@ -20,7 +20,7 @@ graph LR;
     LSTG[Lifescience Technology Group]-->LSTUK[Lifescience Technology LTD UK]
     LSTG[Lifescience Technology Group]-->LSSSG[Lifescience Solutions LTD APAC]
 
-    subgraph ide5 [C-Suite]
+    subgraph ide6 [C-Suite]
     LSTUK-->CEO-LSTUK[CEO: Neil MacRae]
 
     
