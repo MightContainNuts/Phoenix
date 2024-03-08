@@ -54,6 +54,7 @@ graph LR;
     CEO-LSSSG-->COO-LSSSG[COO: Callum Semple]
     CEO-LSSSG-->AL-LSTSSG[Admin Lead: Qian Zhau Lai]
 
+    subgraph ide1 [APAC]
     CTO-LSSSG-->APAC_Team1[APAC Engineering Team 01]
 
     APAC_Team1-->SG_FE_01[Senior Qualification Engineer: Michael L.
@@ -63,13 +64,8 @@ graph LR;
     APAC_Team1-->SG_FE_03[Qualification Engineer: Muhammad I.
         INST/IQ]
     APAC_Team1-->SG_FE_04[APAC_Team_1: t.b.d.]
-
-    box Purple APAC Field Engineers
-    APAC_Team1
-    SG_FE_01
-    SG_FE_02
-    SG_FE_03
-    SG_FE_04
     end
+
+
 
 
