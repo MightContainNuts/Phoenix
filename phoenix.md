@@ -20,13 +20,15 @@ graph LR;
     LSTG[Lifescience Technology Group]-->LSTUK[Lifescience Technology LTD UK]
     LSTG[Lifescience Technology Group]-->LSSSG[Lifescience Solutions LTD APAC]
 
+    subgraph ide5 [C-Suite]
     LSTUK-->CEO-LSTUK[CEO: Neil MacRae]
-    LSSSG-->CEO-LSSSG[CEO: Neil MacRae]
+
     
     CEO-LSTUK-->CFO-LSTUK[CFO: Gillian Semple]
     CEO-LSTUK-->CTO-LSTUK[CTO: Dean Didion]
     CEO-LSTUK-->COO-LSTUK[COO: Callum Semple]
     CEO-LSTUK-->AL-LSTUK[Admin Lead: Helen T.]
+    end
 
     CTO-LSTUK-->UK_Team1[UK Engineering Team 01]
     subgraph ide1 [UK]
@@ -55,13 +57,14 @@ graph LR;
         INST/IQ/OQ]
     end
 
-
+    subgraph ide5 [C-Suite]
+    LSSSG-->CEO-LSSSG[CEO: Neil MacRae]
 
     CEO-LSSSG-->CFO-LSSSG[CFO: Gillian Semple]
     CEO-LSSSG-->CTO-LSSSG[CTO: Dean Didion]
     CEO-LSSSG-->COO-LSSSG[COO: Callum Semple]
     CEO-LSSSG-->AL-LSTSSG[Admin Lead: Qian Zhau Lai]
-
+    end
 
     CTO-LSSSG-->APAC_Team1[APAC Engineering Team 01]
     subgraph ide4 [APAC]
