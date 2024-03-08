@@ -14,4 +14,4 @@ graph TB;
 
     CEO-LSSSG[CEO: Neil MacRae]-->CFO-LSSSG[Gillian Semple]
     CEO-LSSSG[CEO: Neil MacRae]-->CTO-LSSSG[Dean Didion]
-    CEO-LSSSGCEO: Neil MacRae]-->COO-LSSSG[Callum Semple]
+    CEO-LSSSG[CEO: Neil MacRae]-->COO-LSSSG[Callum Semple]
