@@ -20,7 +20,8 @@ graph TB;
     UK_Team1-->UK_FE_03[UK_FE_03: Dinesh P.\\ Senior Qualification Engineer]
     UK_Team1-->UK_FE_04[UK_FE_04: James P.\\ Senior Qualification Engineer]
 
-    CTO-LSTUK-->IL_FE_1[IL_FE_01: Damian B]
+    CTO-LSTUK-->IL_Team1[Ireland Engineering Team 01]
+    IL_Team1-->IL_FE_1[IL_FE_01: Damian B]
 
 
 
