@@ -13,12 +13,12 @@ graph TB;
     CEO-LSTUK[CEO: Neil MacRae]-->COO-LSTUK[COO: Callum Semple]
     CEO-LSTUK[CEO: Neil MacRae]-->AL-LSTUK[Admin Lead: Helen T.]
 
-    CTO-LSTUK-->UK_Team_1[UK_Team_1: Andrew M.]
-    CTO-LSTUK-->UK_Team_1[UK_Team_1: Elliot B.]
-    CTO-LSTUK-->UK_Team_1[UK_Team_1: Dinesh P.]
-    CTO-LSTUK-->UK_Team_1[UK_Team_1: James P.]
+    CTO-LSTUK-->UK_FE_01[UK_FE_01: Andrew M.]
+    CTO-LSTUK-->UK_FE_02[UK_FE_02: Elliot B.]
+    CTO-LSTUK-->UK_FE_03[UK_FE_03: Dinesh P.]
+    CTO-LSTUK-->UK_FE_04[UK_FE_04: James P.]
 
-    CTO-LSTUK-->IL_Team_1[IL_Team_1: Damian B]
+    CTO-LSTUK-->IL_FE_1[IL_FE_01: Damian B]
 
 
 
@@ -27,10 +27,10 @@ graph TB;
     CEO-LSSSG[CEO: Neil MacRae]-->COO-LSSSG[COO: Callum Semple]
     CEO-LSTUK[CEO: Neil MacRae]-->AL-LSTSSG[Admin Lead: Qian Zhau Lai]
 
-    CTO-LSSSG-->SG_Team_1[APAC_Team_1: Michael L.]
-    CTO-LSSSG-->SG_Team_1[APAC_Team_1: Tic L.]
-    CTO-LSSSG-->SG_Team_1[APAC_Team_1: Muhammad I.]
-    CTO-LSSSG-->SG_Team_1[APAC_Team_1: t.b.d.]
+    CTO-LSSSG-->SG_FE_01[APAC_Team_1: Michael L.]
+    CTO-LSSSG-->SG_FE_02[APAC_Team_1: Tic L.]
+    CTO-LSSSG-->SG_FE_03[APAC_Team_1: Muhammad I.]
+    CTO-LSSSG-->SG_FE_04[APAC_Team_1: t.b.d.]
 
 
 
