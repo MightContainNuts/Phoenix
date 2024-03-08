@@ -13,7 +13,7 @@
   }
 }%%
 
-graph TB;
+graph LR;
 
 
 
