@@ -27,7 +27,7 @@ graph LR;
     CEO-LSTUK-->CFO-LSTUK[CFO: Gillian Semple]
     CEO-LSTUK-->CTO-LSTUK[CTO: Dean Didion]
     CEO-LSTUK-->COO-LSTUK[COO: Callum Semple]
-    CEO-LSTUK-->AL-LSTUK[Admin Lead: Helen T.]
+    CEO-LSTUK-->AL-LSTUK[Admin Lead: Mona H.]
     end
 
     CTO-LSTUK-->UK_Team1[UK Engineering Team 01]
