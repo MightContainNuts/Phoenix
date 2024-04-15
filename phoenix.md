@@ -27,7 +27,7 @@ graph LR;
     CEO-LSTUK-->CFO-LSTUK[CFO: Gillian Semple]
     CEO-LSTUK-->CTO-LSTUK[CTO: Dean Didion]
     CEO-LSTUK-->COO-LSTUK[COO: Callum Semple]
-    CEO-LSTUK-->AL-LSTUK[Admin Lead: Mona H.]
+    CFO-LSTUK-->AL-LSTUK[Admin Lead: Mona H.]
     end
 
     CTO-LSTUK-->UK_Team1[UK Engineering Team 01]
@@ -63,7 +63,7 @@ graph LR;
     CEO-LSSSG-->CFO-LSSSG[CFO: Gillian Semple]
     CEO-LSSSG-->CTO-LSSSG[CTO: Dean Didion]
     CEO-LSSSG-->COO-LSSSG[COO: Callum Semple]
-    CEO-LSSSG-->AL-LSTSSG[Admin Lead: Qian Zhau Lai]
+    CFO-LSSSG-->AL-LSTSSG[Admin Lead: Qian Zhau Lai]
     end
 
     CTO-LSSSG-->APAC_Team1[APAC Engineering Team 01]
